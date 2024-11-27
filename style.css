@@ -191,7 +191,7 @@ body {
     margin-top: 20px;
 
     & .background-option {
-        width: 1360px;
+        width: 1600px;
         margin-top: -770px;
         z-index: -1;
     }
